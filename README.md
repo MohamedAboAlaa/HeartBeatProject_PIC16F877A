@@ -11,6 +11,7 @@ This project utilizes the PIC16F877A microcontroller along with a 2x16 LCD, a 4x
 - **User Interface:** 4x4 keypad for user interaction, allowing operations such as addition (+), subtraction (-), multiplication (*), division (/), clear (C), and more.
 - **Health Monitoring:** Heart rate sensor for detecting and measuring heart rate.
 - **Data Handling:** Implements age validation (age > 0) and ID constraints (0-9). Displays "This Patient is Not Found" for invalid data entries (age = 0 or BPM = 0).
+  
 ![Components](_d6081414-ec30-43bb-bf56-08a5bcbf3366.jpeg)
 
 ## Key Features
@@ -32,12 +33,4 @@ This project utilizes the PIC16F877A microcontroller along with a 2x16 LCD, a 4x
 3. Power on the system and follow the LCD prompts to input patient data and initiate monitoring.
 4. Use the keypad to navigate through operations and view real-time health metrics.
 
-## Credits
-Include any credits or acknowledgments for libraries, resources, or inspirations used in your project.
-
-## License
-This project is licensed under the [Your License Name] License - see the LICENSE file for details.
-
-## Support
-For any issues or questions, please open an issue on GitHub.
 
