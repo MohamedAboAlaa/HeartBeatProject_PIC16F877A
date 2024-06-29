@@ -1,6 +1,6 @@
 # Heart Rate Monitoring System with PIC16F877A
 
-![Project Image/Video](link-to-image-or-video)
+(https://copilot.microsoft.com/images/create/heart-rate-monitoring-system-with-pic16f877a/2-6680924f38af42ed94ea6adb3dc69d72?id=K38IoIwffNVMOedPOOVGkQ%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIGBCE4.mu58zG1nsy4cUxcfNqI3&FORM=SYDBIC)
 
 ## Overview
 This project utilizes the PIC16F877A microcontroller along with a 2x16 LCD, a 4x4 keypad, and a heart rate sensor to create a Heart Rate Monitoring System. The system displays user inputs and requested operations on the LCD, calculates and displays BPM (Beats Per Minute) and IBI (Inter-Beat Interval) based on heart rate sensor data, and stores patient data for future reference.
